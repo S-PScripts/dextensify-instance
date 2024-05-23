@@ -40,7 +40,8 @@ An explanation is available on [my website](https://ading.dev/blog/posts/dextens
 |IRIS|`gnncgpaekfefiofnafiojdoohlbkaggb`|
 |Impero|`jonmpbbljdciehhpdfmdiapidmnogkcp`|
 |LanSchool Air|`keknjhjnninjadlkapachhhjfmfnofcb`|
-        
+|RM SafetyNet Go|`kmhjojemanablihnkjnnikokobgahlea`|
+
 ## Copyright:
 This repository is licensed under the MIT License.
 
