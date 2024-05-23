@@ -12,10 +12,10 @@ An explanation is available on [my website](https://ading.dev/blog/posts/dextens
 |--------------|------------|
 |Securly|`joflmkccibkooplaeoinecjbmdebglab`|
 |Securly (old)|`iheobagjkfklnlikgihanlhcddjoihkg`|
-|Goguardian|`haldlgldplgnggkjaafhelgiaglafanh`|
+|GoGuardian|`haldlgldplgnggkjaafhelgiaglafanh`|
 |LANSchool|`baleiojnjpgeojohhhfbichcodgljmnj`|
 |Linewize|`ddfbkhpmcdbciejenfcolaaiebnjcbfc`|
-|Blocksi|`ghlpmldmjjhmdgmneoaibbegkjjbonbk`|
+|Blocksi Enterprise Edition|`ghlpmldmjjhmdgmneoaibbegkjjbonbk`|
 |Fortiguard|`igbgpehnbmhgdgjbhkkpedommgmfbeao`|
 |Cisco Umbrella|`jcdhmojfecjfmbdpchihbeilohgnbdci`|
 |ContentKeeper|`jdogphakondfdmcanpapfahkdomaicfa`|
@@ -35,7 +35,7 @@ An explanation is available on [my website](https://ading.dev/blog/posts/dextens
 |Mobile Guardian|`fgmafhdohjkdhfaacgbgclmfgkgokgmb`|
 |classroom.cloud|`mpkdoimpgkhjcicmhmlmgboelebflpla`|
 |Deledao Education|`feahffpjnjlbbjjocajdmbbgbmplnpji`|
-|Blocksi (new)|`pgmjaihnmedpcdkjcgigocogcbffgkbn`|
+|Blocksi Web Filter|`pgmjaihnmedpcdkjcgigocogcbffgkbn`|
 |Aristotle|`hdfhkhnbcnmondanajhoplpelhflceej`|
 |IRIS|`gnncgpaekfefiofnafiojdoohlbkaggb`|
 |Impero|`jonmpbbljdciehhpdfmdiapidmnogkcp`|
