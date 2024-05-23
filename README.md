@@ -22,7 +22,7 @@ An explanation is available on [my website](https://ading.dev/blog/posts/dextens
 |CK-Authenticator G3|`odoanpnonilogofggaohhkdkdgbhdljp`|
 |Securly Classroom|`jfbecfmiegcjddenjhlbhlikcbfmnafd`|
 |Hapara|`kbohafcopfpigkjdimdcdgenlhkmhbnc`|
-|iboss|`kmffehbidlalibfeklaefnckpidbodff`|
+|iBoss|`kmffehbidlalibfeklaefnckpidbodff`|
 |Lightspeed Filter Agent|`adkcpkpghahmbopkjchobieckeoaoeem`|
 |Lightspeed Classroom|`kkbmdgjggcdajckdlbngdjonpchpaiea`|
 |InterCLASS Filtering Service|`jbddgjglgkkneonnineaohdhabjbgopi`|
@@ -33,7 +33,14 @@ An explanation is available on [my website](https://ading.dev/blog/posts/dextens
 |IMTLazarus|`cgigopjakkeclhggchgnhmpmhghcbnaf`|
 |Impero Backdrop|`jjpmjccpemllnmgiaojaocgnakpmfgjg`|
 |Mobile Guardian|`fgmafhdohjkdhfaacgbgclmfgkgokgmb`|
-
+|classroom.cloud|`mpkdoimpgkhjcicmhmlmgboelebflpla`|
+|Deledao Education|`feahffpjnjlbbjjocajdmbbgbmplnpji`|
+|Blocksi (new)|`pgmjaihnmedpcdkjcgigocogcbffgkbn`|
+|Aristotle|`hdfhkhnbcnmondanajhoplpelhflceej`|
+|IRIS|`gnncgpaekfefiofnafiojdoohlbkaggb`|
+|Impero|`jonmpbbljdciehhpdfmdiapidmnogkcp`|
+|LanSchool Air|`keknjhjnninjadlkapachhhjfmfnofcb`|
+        
 ## Copyright:
 This repository is licensed under the MIT License.
 
